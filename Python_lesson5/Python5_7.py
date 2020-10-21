@@ -10,4 +10,4 @@ result = [
     firms,
     {'average_profit': sum(profit)/len(profit)}
 ]
-print result
+print (result)
