@@ -21,6 +21,7 @@ class Handle (Stationery):
         print("Начинаем рисовать маркером")
 
 
+
 if __name__ == '__main__':
     pen = Pen(tittle="Ручка")
     pen.draw()
